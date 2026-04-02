@@ -1,6 +1,6 @@
-# 📊 Advanced Excel Data Analysis Projects
+# 📊 Advanced Excel Data Analysis Practice Files
 
-This repository showcases my hands-on experience with Microsoft Excel for data analysis, reporting, and dashboard development. These projects demonstrate my ability to clean, transform, analyze, and visualize data to generate actionable business insights.
+This repository showcases my hands-on experience with Microsoft Excel for data analysis, reporting, and dashboard development. This repository contains Excel working files used in various data analysis projects.
 
 ---
 
